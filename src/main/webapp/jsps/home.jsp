@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/bhanuitlogo.jpg" rel="icon">
+<link href="images/bhanuitlogo.png" rel="icon">
 </head>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/bhanuitlogo.jpg" alt="" width="100">
+		<img src="images/bhanuitlogo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		BHANU IT, 
