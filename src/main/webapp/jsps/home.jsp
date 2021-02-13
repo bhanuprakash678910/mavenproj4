@@ -5,33 +5,33 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/bhanuitlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Bhanu IT.</h1>
+<h1 align="center"> Welcome to Bhanu IT- Very Good Training center for DevOps with AWS in  Bangalore India .Teaching Real Time </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/bhanuitlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		BHANU IT, 
+		Nandini Layout,
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-9164423082
+		bhanuit@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:bhanuit@gmail.com">Mail to Bhanu IT</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>BHANU IT - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2021 by <a href="http://bhanuit.com/">Bhanu IT</a> </small></p>
 
 </body>
 </html>
