@@ -51,7 +51,7 @@ options{
  {
    steps{
   sshagent(['2b7b0c6a-5eff-4f4a-82c3-3630f91c70b5']) {
-  sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.1.222.74:/opt/apache-tomcat-9.0.41/webapps/"
+  sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@18.206.228.52:/opt/apache-tomcat-9.0.41/webapps/"
   }
  }
  }
@@ -64,19 +64,19 @@ options{
  
  
  success{
- mail bcc: 'devopstrainingblr@gmail.com', body: '''BuildOver!....
+ mail bcc: 'bhanuprakashdevopsaws2019x@gmail.com', body: '''BuildOver!....
 
  Regards,
- Mithun Technologies,
- 9980923226''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devopstrainingblr@gmail.com'
+ Bhanu IT Technologies,
+ 9164423082''', cc: 'bhanuprakashdevopsaws2019x@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'bhanuprakashdevopsaws2019x@gmail.com'
  }
  
  failure{
- mail bcc: 'devopstrainingblr@gmail.com', body: '''BuildOver!....
+ mail bcc: 'bhanuprakashdevopsaws2019x@gmail.com', body: '''BuildOver!....
 
  Regards,
- Mithun Technologies,
- 9980923226''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devopstrainingblr@gmail.com'
+ Bhanu IT Technologies,
+ 9164423082''', cc: 'bhanuprakashdevopsaws2019x@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'bhanuprakashdevopsaws2019x@gmail.com'
  }
  
  }
