@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Bhanu I Technologies- Home Page</title>
 <link href="images/bhanuitlogo.png" rel="icon">
 </head>
 </head>
